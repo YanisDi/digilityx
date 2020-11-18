@@ -33,6 +33,17 @@
          "id":16,
          "name":"meetings",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"workadventure"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"sponsor"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -98,6 +109,12 @@
          "id":15,
          "name":"websites",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.digilityx.com\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -114,7 +131,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=0j9TxzwRr6E"
+                 "value":"https:\/\/www.youtube.com\/embed\/Xr0tTlKpFQw"
                 }],
          "type":"tilelayer",
          "visible":true,
