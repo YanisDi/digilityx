@@ -147,7 +147,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/digilityx\/firstfloor.json"
+                 "value":"..\/firstfloor.json"
                 }],
          "type":"tilelayer",
          "visible":true,
