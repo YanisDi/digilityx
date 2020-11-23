@@ -290,7 +290,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/Documents\/WA assets\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1015,7 +1015,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"..\/Documents\/WA assets\/floortileset.png",
+         "image":"floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -1047,7 +1047,7 @@
         {
          "columns":8,
          "firstgid":321,
-         "image":"..\/Documents\/WA assets\/woodfloor.png",
+         "image":"woodfloor.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -1079,7 +1079,7 @@
         {
          "columns":4,
          "firstgid":385,
-         "image":"..\/Documents\/WA assets\/baby-removebg-preview.png",
+         "image":"baby-removebg-preview.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -1237,7 +1237,7 @@
         {
          "columns":3,
          "firstgid":401,
-         "image":"..\/Documents\/WA assets\/Silent room.png",
+         "image":"Silent room.png",
          "imageheight":96,
          "imagewidth":96,
          "margin":0,
@@ -1250,7 +1250,7 @@
         {
          "columns":8,
          "firstgid":410,
-         "image":"..\/Documents\/WA assets\/extreatiles.png",
+         "image":"extreatiles.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
