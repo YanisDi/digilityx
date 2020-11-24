@@ -153,7 +153,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/map.json#startfloor"
+                 "value":"\/map.json#startfloor"
                 }],
          "type":"tilelayer",
          "visible":true,
