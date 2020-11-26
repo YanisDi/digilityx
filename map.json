@@ -165,7 +165,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/yanisdi.github.io\/digilityx\/firstfloor.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/yanisdi.github.io\/digilityx\/firstfloor.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
